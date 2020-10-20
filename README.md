@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Why I Created this ?
+This is a simple Todo App, i created during my initial learning process of [ReactJs](https://reactjs.org/)
+
 ## Available Scripts
 
 In the project directory, you can run:
